@@ -3485,15 +3485,191 @@ Tidak Ada File
 
 
 
-#EXTINF:-1   tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEji7BxgGnEyjd2NrL6PeUTKv28Li9IRaB47AvqC9KGkwV2GwFaMTMRGzBz_HtIRroE0CEPKuzjIcN3vLUa1hcQXYAIkwN60epdHvbWkDlmrbtV01zUw8Pm5i8M4Qo_rZEpeUzrTwSJDt4c1ctJTUGoCa4c6hYexYw_cr41GaufSR929oagEF_uL_-hTjKs/s1280/1000027061.jpg" group-title="🔴LIVE EVENT HARI INI",PSS SLEMAN🆚PERSEBAYA
-https://tvpull.careryun.com/live/ballbar_35030.m3u8
+
+#EXTM3U
 
 
 
 
-#EXTINF:-1   tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1a5lrc4v684SL_1u6v1Fik8_OyErdWKv2BBqEQT71unvrfo0AB58mNCiVR5hFro7IEGDftNZepD1fmsEEC7qtpt90aujStXRZcNUdRmpdxwh_a0s5g0JlN0DbQx0eu6XyvkCHl0VPKuApho1aPONLUdonSjQl5hwwmwMnwaqmUwmVpgkrxgnf4qU8IDk/s1920/1000027058.jpg" group-title="🔴LIVE EVENT HARI INI",PSBS BIAK🆚PERSIB BANDUNG
-https://tvpull.careryun.com/live/ballbar_37780.m3u8
 
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3785" tvg-logo="https://api.sofascore.app/api/v1/event/12437812/share-image/16x9" group-title="[LIVE EVENT]",ALAVéS VS GIRONA [LALIGA] - 20:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+#EXTINF:-1 tvg-id="12437812" tvg-name="3507" tvg-logo="https://api.sofascore.app/api/v1/event/12437812/share-image/16x9" group-title="[LIVE EVENT]",ALAVéS VS GIRONA [LALIGA] - 20:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
+https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
+
+
+#EXTINF:-1 tvg-id="12437814" tvg-name="430" tvg-logo="https://api.sofascore.app/api/v1/event/12437814/share-image/16x9" group-title="[LIVE EVENT]",ESPANYOL VS LEGANéS [LALIGA] - 00:30 - (12/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+#EXTINF:-1 tvg-id="12437809" tvg-name="3784" tvg-logo="https://api.sofascore.app/api/v1/event/12437809/share-image/16x9" group-title="[LIVE EVENT]",SEVILLA VS VALENCIA [LALIGA] - 03:00 - (12/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
+
+
+#EXTINF:-1 tvg-id="12504439" tvg-name="434" tvg-logo="https://api.sofascore.app/api/v1/event/12504439/share-image/16x9" group-title="[LIVE EVENT]",EMPOLI VS LECCE [SERIE A] - 21:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+
+
+#EXTINF:-1 tvg-id="12504428" tvg-name="432" tvg-logo="https://api.sofascore.app/api/v1/event/12504428/share-image/16x9" group-title="[LIVE EVENT]",UDINESE VS ATALANTA [SERIE A] - 21:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+#EXTINF:-1 tvg-id="12504428" tvg-name="3507" tvg-logo="https://api.sofascore.app/api/v1/event/12504428/share-image/16x9" group-title="[LIVE EVENT]",UDINESE VS ATALANTA [SERIE A] - 21:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0be3d503dba13fc9a9c8ad4b89f599e6:578c2231c526c5e9eb415411e36871bf
+https://da-d436234320010b88000103020000000000000005.id.cdn.upcbroadband.com/wp/wp7-anp-g05060506-hzn-nl.t1.prd.dyncdn.dmdsdp.com/live/disk1/NL_000014_019661/go-dash-fhd-avc/NL_000014_019661.mpd?p=web
+
+#EXTINF:-1 tvg-id="12504431" tvg-name="3784" tvg-logo="https://api.sofascore.app/api/v1/event/12504431/share-image/16x9" group-title="[LIVE EVENT]",TORINO VS JUVENTUS [SERIE A] - 00:00 - (12/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
+
+#EXTINF:-1 tvg-id="12504437" tvg-name="3783" tvg-logo="https://api.sofascore.app/api/v1/event/12504437/share-image/16x9" group-title="[LIVE EVENT]",MILAN VS CAGLIARI [SERIE A] - 02:45 - (12/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
+
+#EXTINF:-1 tvg-id="12504437" tvg-name="5430" tvg-logo="https://api.sofascore.app/api/v1/event/12504437/share-image/16x9" group-title="[LIVE EVENT]",MILAN VS CAGLIARI [SERIE A] - 02:45 - (12/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+
+#EXTINF:-1 tvg-id="12450948" tvg-name="3784" tvg-logo="https://api.sofascore.app/api/v1/event/12450948/share-image/16x9" group-title="[LIVE EVENT]",BREST VS LYON [LIGUE 1] - 23:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
+
+#EXTINF:-1 tvg-id="12450945" tvg-name="432" tvg-logo="https://api.sofascore.app/api/v1/event/12450945/share-image/16x9" group-title="[LIVE EVENT]",REIMS VS NICE [LIGUE 1] - 01:00 - (12/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+
+#EXTINF:-1 tvg-id="12450950" tvg-name="3785" tvg-logo="https://api.sofascore.app/api/v1/event/12450950/share-image/16x9" group-title="[LIVE EVENT]",RENNES VS MARSEILLE [LIGUE 1] - 03:05 - (12/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+
+
+#EXTINF:-1 tvg-id="13189392" tvg-name="3784" tvg-logo="https://api.sofascore.app/api/v1/event/13189392/share-image/16x9" group-title="[LIVE EVENT]",BRISTOL CITY VS WOLVES [FA CUP] - 19:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium2.mpd
+
+
+#EXTINF:-1 tvg-id="13189413" tvg-name="432" tvg-logo="https://api.sofascore.app/api/v1/event/13189413/share-image/16x9" group-title="[LIVE EVENT]",MIDDLESBROUGH VS BLACKBURN [FA CUP] - 19:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+
+
+#EXTINF:-1 tvg-id="13189408" tvg-name="3783" tvg-logo="https://api.sofascore.app/api/v1/event/13189408/share-image/16x9" group-title="[LIVE EVENT]",LIVERPOOL VS ACCRINGTON [FA CUP] - 19:15 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
+
+
+#EXTINF:-1 tvg-id="13189387" tvg-name="431" tvg-logo="https://api.sofascore.app/api/v1/event/13189387/share-image/16x9" group-title="[LIVE EVENT]",LEICESTER VS QPR [FA CUP] - 21:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+
+
+#EXTINF:-1 tvg-id="13189412" tvg-name="3783" tvg-logo="https://api.sofascore.app/api/v1/event/13189412/share-image/16x9" group-title="[LIVE EVENT]",CHELSEA VS MORECAMBE [FA CUP] - 22:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
+
+#EXTINF:-1 tvg-id="13189412" tvg-name="3785" tvg-logo="https://api.sofascore.app/api/v1/event/13189412/share-image/16x9" group-title="[LIVE EVENT]",CHELSEA VS MORECAMBE [FA CUP] - 22:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+
+
+#EXTINF:-1 tvg-id="13189391" tvg-name="433" tvg-logo="https://api.sofascore.app/api/v1/event/13189391/share-image/16x9" group-title="[LIVE EVENT]",NORWICH VS BRIGHTON [FA CUP] - 22:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+
+#EXTINF:-1 tvg-id="13189399" tvg-name="430" tvg-logo="https://api.sofascore.app/api/v1/event/13189399/share-image/16x9" group-title="[LIVE EVENT]",FOREST VS LUTON [FA CUP] - 22:00 - (11/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+
+
+#EXTINF:-1 tvg-id="13189388" tvg-name="3783" tvg-logo="https://api.sofascore.app/api/v1/event/13189388/share-image/16x9" group-title="[LIVE EVENT]",MAN CITY VS SALFORD [FA CUP] - 00:45 - (12/01/2025)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls7/as_premium1.mpd
+
+#EXTINF:-1 tvg-id="TV3_Sport2_HD_HVC" group-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/1258574/images/17693972?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" tvg-logo="https://static3.go3.tv/scale/go3/images/epg_6abb36652427dc3bba8095262ef9bfc9.jpeg?dsth=1080&dstw=1920&srcmode=0&quality=65&srcx=0&srcy=0&srcw=1/1&srch=1/1&type=1" group-title="GO3 SPORTS",LIVE:One Championship. ONE Fight Night 27|08:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+
+
+#EXTINF:-1 tvg-id="VIP8" group-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/logos/138/1304?srcx=1&srcy=1&srcw=3358&srch=600&dstw=1366&dsth=244&srcmode=0&quality=80" tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/programme/8723559/images/24239556?dsth=1080&dstw=1920&srcmode=0&quality=65&type=1&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="GO3 EXTRA SPORTS",LIVE:DP World Tour. Team Cup. Day 2|10:30
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:e306b8a8662ba9e4359ab635ca18b0cf
+https://cdnlb.tvplayhome.lt/live/eds2/VIP8/GO3_LIVE_DASH_AVC/VIP8.mpd
+
+#EXTINF:-1 tvg-id="VIP14" group-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/logos/138/1304?srcx=1&srcy=1&srcw=3358&srch=600&dstw=1366&dsth=244&srcmode=0&quality=80" tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/programme/8723517/images/24236776?dsth=1080&dstw=1920&srcmode=0&quality=65&type=1&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="GO3 EXTRA SPORTS",LIVE:NHL. Utah Hockey Club - San Jose Sharks|09:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:16e237d0bbd9a9b2cfd3a9a36f6323eb
+https://cdnlb.tvplayhome.lt/live/eds2/VIP14/GO3_LIVE_DASH_AVC/VIP14.mpd
+
+#EXTINF:-1 tvg-id="VIP13" group-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/logos/138/1304?srcx=1&srcy=1&srcw=3358&srch=600&dstw=1366&dsth=244&srcmode=0&quality=80" tvg-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/programme/8723516/images/24236774?dsth=1080&dstw=1920&srcmode=0&quality=65&type=1&srcx=1&srcy=1&srcw=1/1&srch=1/1" group-title="GO3 EXTRA SPORTS",LIVE:NHL. Winnipeg Jets - Los Angeles Kings|08:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad206bf45075406da1ccfd824b4667c9:37a8b1230dbeff0a11ce0af9bd3445e3
+https://cdnlb.tvplayhome.lt/live/eds2/VIP13/GO3_LIVE_DASH_AVC/VIP13.mpd
+
+
+#EXTINF:-1 tvg-id="Setanta26_HD_HVC" group-logo="https://static3.go3.tv/scale/go3/webuploads/rest/upload/live/4500868/images/18153975?dsth=512&dstw=512&srcmode=3&quality=65&type=0&srcx=1&srcy=1&srcw=1/1&srch=1/1" tvg-logo="https://static3.go3.tv/scale/go3/images/epg_689d85ea7283a987101a119263642bfa.jpeg?dsth=1080&dstw=1920&srcmode=0&quality=65&srcx=0&srcy=0&srcw=1/1&srch=1/1&type=1" group-title="Setanta Event",LIVE:Tenis: WTA 250 Hobart|09:00
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1658b366669f443384cefee3ec401d65:CCE0929C1AB140670002D4C253C73654
+https://cdnlb.tvplayhome.lt/live/eds/Setanta26_HD_HVC/GO3_LIVE_DASH/Setanta26_HD_HVC.mpd
 
 
 
