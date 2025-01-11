@@ -3489,7 +3489,11 @@ Tidak Ada File
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyvzaZkCFRzUpoolhLFsalx9yBOVE5TI97bgfP4xu6L6iym3Yr6JolFEi-c0XAt4NkR_59i3QIiFkscW2VSfFl8EhkEoCE8VsYK24TYQ6EQ8J5NmfbjAvtXSmQqqgxlCYxQH1adRPeOhE3AODVOem4V-a1qhRJzM801hrl2i4kHhagvp32Cun8B-TDoZQ/s640/1000027563.jpg", group-title="[LIVE EVENT]", DEWA.UNITED🆚AREMA.FC 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c63ef11648fcdd4ad4ea91c1effa91ba:8ecf85e6b1c663162e3f584d111ea30e
+https://why.biz.id/Iptv/rooid.php/stream.mpd?id=17622
 
 
 
