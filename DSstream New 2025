@@ -606,12 +606,11 @@ Tidak Ada File
 
 
 
-#EXTINF:-1   tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqHK1ffztIbwTX08UcJQJdIj-ehFg3gkwuWRhwzQQnEUtoDRcU7dkKsHRP5HNhrGN3FZt6Lz4i8KrfnPtVuybcYFHb9aeCc1u5xUjObTjr8SuJGJtetwvABC6ojGfoKGqmPZo8GCwkNxM2feEwlZhuRjLGId70gOdhA9dNtAw7FG3Bq37QL6uIJWz-SV0/s960/1000027866.jpg" group-title="🔴 LIVE HARI INI", 🏸 PETRONAS MALAYSIA OPEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
-https://s5yous2-cf.cool6bcd6.cc/auth%3D82dcc40cb719596ffec01a9a7f7a4e0e8520c767c2d0936eb01ad2a52894f9b1833d61bb86db61cd4959f38f070a91cd3a3d43dda37f377f532833f07ddc47855405506e0bddb47002f1be75a9772309ae1155f4d89da2e3a485d2ad4bc1b37d2b6be6ffeab585d60edd8038e7056162ad2347d61a33bd0431b3799dba22ddc4b2d208a260710cf9d355ee15bb328658d1a21a0074f26a142fe56de733e56268%26cid%3D0jPAArhgwqMtRqaIElf5K250112%26_v%3D2%26_r%3DV1-COt%26_vis%3Defd4136bf69e7ba696b259299ee45113a9136c1087c1c2229bede9bdd58d12db%26_vvs%3D52ac60fae43e73ba1f03ade386d443dd7b7aa82e3b25a5b037a652a5d39ac3a3/app/c308666.m3u8
-
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi3QhM-toZmtdMWoyeOph1I_PFXq7G0yzPlLCJ3G8jvsjcNVHdBAh4iq_KHNtaPhWwvv7oNv_d1p5rKHFnspZAsv7D695_nu5OxgC_ACIV7Ox5sa12XSELrayn9C5kVXzDj_Hsapa1tq0fH6xMOpYDOasQKtfPAfnrfyk9Qf2L_urNLDVuxPMwVGgOxGL0/s739/1000027856.jpg" group-title="🔴 LIVE EVENT",⚽PRO FUTSAL LEAGUE 09.00 WIB-17.00 WIB
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 
 
