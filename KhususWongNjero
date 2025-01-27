@@ -2,15 +2,15 @@
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_gKBgvO0bXLIbYWfuJTWiVwIwZOJGEGiW5oP-YAU-GPnWT0hRy_fogoM&amp;s=10" group-title="⚽LiveEvent 27 January", Psm Makassar Vs Dewa United
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://i.kitescdnz.net/live/v1/EkyvoJyg3IwTcSQHfqPS2wL5SZJBUtKNszsy81Ko8PN9D3sHwFNwogHakvjXehAE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXwtLL4XP_40nCGvL32aBJONshfhKZxWQy8KHJzKvCKUGm6gLc2K6ulKw&amp;s=10" group-title="⚽LiveEvent 27 January", Indonesia Vs Suriah U20
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUS8txVKKO-L_P05LxgNvcln3qNuoJPcsdzbqhegqX5BvqUGZCnuQ3CQFb&amp;s=10" group-title="⚽LiveEvent 27 January",PSKC vs Bhayangkara FC (LIGA2)
-https://i.kitescdnz.net/live/v1/Ht8spXSRskMF0xfNBb+T3MSyhpxDQmChhPawdWujHeqmbt9a+9Er1-7vXZbKr6KR/128519910.ts
-
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://i.kitescdnz.net/live/v1/Ht8spXSRskMF0xfNBb+T3MSyhpxDQmChhPawdWujHeqmbt9a+9Er1-7vXZbKr6KR/index.m3u8
 ==================================================================================================================================================================================================================================================================================================================================
 
 
@@ -50,7 +50,7 @@ https://canale.mizhls.ru/lb/premium309/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium4/playlist.m3u8
 
-#EXTINF:-1 tvg-lo6go="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhstLaPJtYAsStqjysubn15_b38laWmlnMKqLpBrDhNdpwjtwc-DI_JE_sEhJ2YKL0Ipj7k0StH4dc_iGuknC7ECQxPn8cANaHdGwNqXGIONH2cP_SRGxy0a8oSsunzeNZbs4FtxMzSLR_E3T7jCQ8jjexnb-mfrDYlVG_Xy2N_EQ-T7s6LPvup3OyhczU/s320/1000040332.gif" group-title="⚽LiveEvent 27 January", Soccer : Penafiel vs Vizela (18:00*Monday 27-1-2025)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhstLaPJtYAsStqjysubn15_b38laWmlnMKqLpBrDhNdpwjtwc-DI_JE_sEhJ2YKL0Ipj7k0StH4dc_iGuknC7ECQxPn8cANaHdGwNqXGIONH2cP_SRGxy0a8oSsunzeNZbs4FtxMzSLR_E3T7jCQ8jjexnb-mfrDYlVG_Xy2N_EQ-T7s6LPvup3OyhczU/s320/1000040332.gif" group-title="⚽LiveEvent 27 January", Soccer : Penafiel vs Vizela (18:00*Monday 27-1-2025)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #EXTVLCOPT:http-referrer=https://tvcanale.live/
 https://canale.mizhls.ru/lb/premium318/playlist.m3u8
@@ -3649,7 +3649,12 @@ http://opplex.tv:8080/88886775/87775554/350484
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="DE | BUNDESLIGA HD" tvg-logo="http://m.reddxc.com/de/skybundesliga.png" group-title="[DS] SPORTS BUNDESLIGA⚽",DE | BUNDESLIGA HD
+http://12ww11.top:8080/i7KqgDWpVv/VTwqgdjss/73028
+#EXTINF:-1 tvg-id="" tvg-name="DE | SKY SPORT BUNDESLIGA 1 HD" tvg-logo="http://m.reddxc.com/de/skybundesliga.png" group-title="[DS] SPORTS BUNDESLIGA⚽",DE | SKY SPORT BUNDESLIGA 1 HD
+http://12ww11.top:8080/i7KqgDWpVv/VTwqgdjss/73029
+#EXTINF:-1 tvg-id="" tvg-name="DE | BUNDESLIGA 2 HD" tvg-logo="http://m.reddxc.com/de/skybundesliga.png" group-title="[DS] SPORTS BUNDESLIGA⚽",DE | BUNDESLIGA 2 HD
+http://12ww11.top:8080/i7KqgDWpVv/VTwqgdjss/73030
 
 
 ========================================================================================================================DS SPORT LIGA ARAB===========================================================================
@@ -4444,6 +4449,76 @@ http://myserver.myphuket.net:25461/test2/test2/66
 http://myserver.myphuket.net:25461/test2/test2/67
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sport F1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Sky_Sports_F1_logo_2020.svg/1280px-Sky_Sports_F1_logo_2020.svg.png" group-title="DS SPORT EXTRA👑",Sky Sport F1
 http://myserver.myphuket.net:25461/test2/test2/69
+
+
+
+#EXTINF:-1 tvg-id="arena-sport-1-premium-bih" tvg-name="ARENA 1 PREMIUM (BIH)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="DS SPORT EXTRA👑",ARENA 1 PREMIUM (BIH)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/151476
+#EXTINF:-1 tvg-id="arena-sport-2-premium-bih" tvg-name="ARENA 2 PREMIUM (BIH)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="DS SPORT EXTRA👑",ARENA 2 PREMIUM (BIH)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/151477
+#EXTINF:-1 tvg-id="arena-sport-3-premium-bih" tvg-name="ARENA 3 PREMIUM (BIH)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="DS SPORT EXTRA👑",ARENA 3 PREMIUM (BIH)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/151478
+#EXTINF:-1 tvg-id="arena-sport-1-ba.DS SPORT EXTRA👑" tvg-name="ARENA 1 (BiH)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport1hdbih.gif" group-title="DS SPORT EXTRA👑",ARENA 1 (BiH)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/535
+#EXTINF:-1 tvg-id="Arena Sport 1" tvg-name="ARENA 1 PREMIUM (SR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenapremium1.gif" group-title="DS SPORT EXTRA👑",ARENA 1 PREMIUM (SR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/18328
+#EXTINF:-1 tvg-id="arena-sport-2-premium" tvg-name="ARENA 2 PREMIUM (SR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenapremium2.gif" group-title="DS SPORT EXTRA👑",ARENA 2 PREMIUM (SR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/18329
+#EXTINF:-1 tvg-id="arena-sport-3-premium" tvg-name="ARENA 3 PREMIUM (SR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenapremium3.gif" group-title="DS SPORT EXTRA👑",ARENA 3 PREMIUM (SR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/90512
+#EXTINF:-1 tvg-id="tv-arena-sport-1.DS SPORT EXTRA👑" tvg-name="ARENA 1 (SR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport1hd.gif" group-title="DS SPORT EXTRA👑",ARENA 1 (SR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/536
+#EXTINF:-1 tvg-id="tv-arena-sport-2.DS SPORT EXTRA👑" tvg-name="ARENA 2 (SR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport2hd.gif" group-title="DS SPORT EXTRA👑",ARENA 2 (SR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/538
+#EXTINF:-1 tvg-id="tv-arena-sport-3.DS SPORT EXTRA👑" tvg-name="ARENA 3 (SR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport3hd.gif" group-title="DS SPORT EXTRA👑",ARENA 3 (SR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/540
+#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-name="ARENA 4 (SR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport4hd.gif" group-title="DS SPORT EXTRA👑",ARENA 4 (SR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/542
+#EXTINF:-1 tvg-id="arena-sport-5" tvg-name="ARENA 5 (SR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport5.gif" group-title="DS SPORT EXTRA👑",ARENA 5 (SR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/544
+#EXTINF:-1 tvg-id="arena-sport-6" tvg-name="ARENA 6 (SR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport6.gif" group-title="DS SPORT EXTRA👑",ARENA 6 (SR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/17062
+#EXTINF:-1 tvg-id="arena-sport-7" tvg-name="ARENA 7 (SR)" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT7.gif" group-title="DS SPORT EXTRA👑",ARENA 7 (SR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/74756
+#EXTINF:-1 tvg-id="arena-sport-8" tvg-name="ARENA 8 (SR)" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT8.gif" group-title="DS SPORT EXTRA👑",ARENA 8 (SR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/74757
+#EXTINF:-1 tvg-id="arena-sport-10-rs" tvg-name="ARENA SPORT 10 HD (SR)" tvg-logo="https://tvprofil.com/img/kanali-logo/Arena_Sport_10_RS_logo.png?1665139118" group-title="DS SPORT EXTRA👑",ARENA SPORT 10 HD (SR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/363343
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr.DS SPORT EXTRA👑" tvg-name="ARENA 1 (HR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/aenasport1hrhd.gif" group-title="DS SPORT EXTRA👑",ARENA 1 (HR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/546
+#EXTINF:-1 tvg-id="" tvg-name="Arena Sport 1 HD (HR) L2" tvg-logo="http://ilidza.net:80/images/902ead5f8bd5702bdf3a18d9af14f342.png" group-title="DS SPORT EXTRA👑",Arena Sport 1 HD (HR) L2
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/399246
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr" tvg-name="ARENA 2 (HR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport2hdhr.gif" group-title="DS SPORT EXTRA👑",ARENA 2 (HR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/547
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr" tvg-name="ARENA 3 (HR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport3hdhr.gif" group-title="DS SPORT EXTRA👑",ARENA 3 (HR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/548
+#EXTINF:-1 tvg-id="arena-sport-4-hr" tvg-name="ARENA 4 (HR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasporthrhd4.gif" group-title="DS SPORT EXTRA👑",ARENA 4 (HR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/549
+#EXTINF:-1 tvg-id="14728" tvg-name="ARENA 5 (HR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif" group-title="DS SPORT EXTRA👑",ARENA 5 (HR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/550
+#EXTINF:-1 tvg-id="Arena Sport 6 HD" tvg-name="ARENA 6 (HR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif" group-title="DS SPORT EXTRA👑",ARENA 6 (HR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/551
+#EXTINF:-1 tvg-id="arena-sport-7-hr" tvg-name="ARENA 7 (HR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport7hrhd.gif" group-title="DS SPORT EXTRA👑",ARENA 7 (HR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/552
+#EXTINF:-1 tvg-id="Arena Sport 8 SD/HD.rs" tvg-name="ARENA 8 (HR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport8hrhd.gif" group-title="DS SPORT EXTRA👑",ARENA 8 (HR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/553
+#EXTINF:-1 tvg-id="arena-sport-9-hr" tvg-name="ARENA 9 (HR)" tvg-logo="https://repo.ottshow.net/pikoni/pikoni%20novi/SPORT/ARENASPORT9.gif" group-title="DS SPORT EXTRA👑",ARENA 9 (HR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/554
+#EXTINF:-1 tvg-id="arena-sport-10-hr" tvg-name="ARENA 10 (HR)" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport10hrhd.gif" group-title="DS SPORT EXTRA👑",ARENA 10 (HR)
+http://cobraeu.com:80/@ratata2025@/@ratata2025@/555
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
